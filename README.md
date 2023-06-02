@@ -16,6 +16,7 @@ In this activity, I was requested to use Python and unsupervised machine learnin
 
 
 
+
 ![elbow_kmeans](https://github.com/cami5326/CryptoClustering/blob/main/Pictures/elbow_kmeans.png)
 
 
