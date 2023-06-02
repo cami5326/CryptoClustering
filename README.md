@@ -11,6 +11,7 @@ In this activity, I was requested to use Python and unsupervised machine learnin
 ![df_market_data_graph](https://github.com/cami5326/CryptoClustering/blob/main/Pictures/df_market_data_graph.PNG)
 
 
+* StandardScaler() module normalizing the data
 ![df_market_data_scaledDF](https://github.com/cami5326/CryptoClustering/blob/main/Pictures/df_market_data_scaledDF.PNG)
 
 
